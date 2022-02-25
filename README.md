@@ -2,7 +2,7 @@
 
 > Front-end developer
 
-## 👉️[Profolio](https://porfolio-andybaronp.vercel.app/)
+## 👉️[Protfolio](https://portfolio-andybaronp.vercel.app/)
 
 ### Tech & Tools Preference
 
