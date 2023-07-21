@@ -1,8 +1,20 @@
+
 ### Hi there 👋 I'm [Jhoandris Barón](https://www.linkedin.com/in/jhoandris-baron/)
 
 > Front-end developer
 
- 
+
+
+
+#### Desarrollador FrontEnd, autodidacta,  entusiasta del aprendizaje y de asumir nuevos retos, con capacidad de adquirir habilidades  en corto tiempo.
+
+**Experiencia:**
+
+- Creación de un sistema de control y gestión de presupuesto para entidades gubernamentales con uso internacional.
+- Desarrollo e integración de sistema para la gestión de facturación.
+- Creación de un sistema de reserva de instalaciones con pasarela de pago integrada.
+- Implementación de un panel administrativo para gestionar un sistema.
+- Mantenimiento y actualización de sistemas existentes según los requisitos de los clientes.
 
  
 
