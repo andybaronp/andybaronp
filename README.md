@@ -18,9 +18,7 @@
 
  
 
-### Github Stats
-
-![Jhoandris GitHub Stats](https://github-readme-stats.vercel.app/api?username=andybaronp&theme=algolia&show_icons=true)
+ 
 
 ##### Fun fact: answer to the world's oldest question with a single line of JavaScript
  
