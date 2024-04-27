@@ -6,7 +6,8 @@
 
 
 
-#### Desarrollador FrontEnd, autodidacta,  entusiasta del aprendizaje y de asumir nuevos retos, con capacidad de adquirir habilidades  en corto tiempo.
+#### Desarrollador FrontEnd, autodidacta,  entusiasta del aprendizaje y de asumir nuevos retos.
+
 
 **Experiencia:**
 
@@ -16,7 +17,9 @@
 - Implementación de un panel administrativo para gestionar un sistema.
 - Mantenimiento y actualización de sistemas existentes según los requisitos de los clientes.
 
- 
+Cuento con concimientos en:
+- Nodejs
+- Docker
 
  
 
