@@ -3,7 +3,7 @@
 
 > Front-end developer
 
-
+Durante mi trabajo implementé una pasarela de pago, desarrollé y adapté un calendario para uso de control administrativo de instalaciones físicas, usando tecnologías como React, TypeScript. WebSockets, JavaScript entre otras.
 
 
 #### Desarrollador FrontEnd, autodidacta,  entusiasta del aprendizaje y de asumir nuevos retos.
@@ -20,14 +20,22 @@
 Cuento con concimientos en:
 - Nodejs
 - Docker
+- TypeScript
+- JavaScript
+- React
+- Nextjs
+- Nesjs
 
  
 
-##### Fun fact: answer to the world's oldest question with a single line of JavaScript
  
-```javascript
-// Which came first: the chicken or the egg?
-console.log(["🥚", "🐣", "🐥", "🐔"].sort())
 
- >>> ["🐔", "🐣", "🐥", "🥚"];
-```
+
+
+
+
+
+
+**Off topic**
+
+Te interesa aprender hojas de cálculo 👉 https://www.aprendesheets.com/
