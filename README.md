@@ -25,6 +25,9 @@ Cuento con concimientos en:
 - React
 - Nextjs
 - Nestjs
+- Astro
+
+
 
  
 
