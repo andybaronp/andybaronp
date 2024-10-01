@@ -24,7 +24,7 @@ Cuento con concimientos en:
 - JavaScript
 - React
 - Nextjs
-- Nesjs
+- Nestjs
 
  
 
